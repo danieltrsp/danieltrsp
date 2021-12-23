@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieltrsp
 - 🌱 I’m currently learning programming
-- 📫 How to reach me ... you'll find the way with same ID
+- 📫 How to reach me ... you'll find the way
 - 👀 I’m interested in ... being happy
 - 💞️ I’m looking to collaborate on ... relaxed environments
 
